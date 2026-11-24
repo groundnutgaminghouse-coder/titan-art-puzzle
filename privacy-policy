@@ -1,169 +1,126 @@
 # Privacy Policy – Titan Art Puzzle
 
-**Published by:** Groundnut Gaming House  
-**Effective date:** November 24, 2026  
-**Contact:** groundnutgaminghouse@gmail.com
+**Last updated: November 24, 2026**
 
-## 1. Introduction
-
-Groundnut Gaming House ("we", "our", or "us") respects your privacy.
-
-This Privacy Policy explains how information is handled when you download, install, and play Titan Art Puzzle ("the App").
-
-Titan Art Puzzle is a puzzle game designed for users aged 13 and above. The App does not require users to create an account, register, or sign in.
+Groundnut Gaming House ("we", "our", or "us") respects your privacy. This Privacy Policy explains how information may be collected, used, and shared when you use the **Titan Art Puzzle** mobile game ("the App").
 
 By using the App, you acknowledge this Privacy Policy.
 
+## 1. About the App
+
+Titan Art Puzzle is a mobile puzzle game in which users install the App and play puzzle levels.
+
+The App does not require users to:
+- Create an account or register.
+- Sign in using Google or any other service.
+- Provide their real name.
+- Create a player profile or select an avatar.
+
 ## 2. Information We Collect
 
-### 2.1 Information you provide
+We do not directly ask users to provide personal information to play the App.
 
-The App does not ask you to provide:
+### 2.1 Game Progress Stored on Your Device
 
-- Your real name
-- Your email address
-- A username or password
-- An avatar or profile photograph
-- Registration or account information
+The App uses Unity PlayerPrefs to store certain game information locally on your device, such as level progress and game settings.
 
-We do not operate a user registration or login system.
+This information is not linked to a user account and is not synchronized to a cloud account by us.
 
-### 2.2 Locally stored game progress
+Uninstalling the App or clearing its data may remove locally stored progress.
 
-The App uses Unity PlayerPrefs to save game-related information locally on your device, such as level progress and relevant gameplay settings.
+### 2.2 Advertising Information
 
-This information:
-- Is stored on your device.
-- Is used to maintain your gameplay progress.
-- Is not associated with a registered user account.
-- Is not uploaded to a cloud-based player profile by us.
+The App uses **Google AdMob** to display advertisements.
 
-Uninstalling the App or clearing its application data may erase locally stored progress.
+Google and its advertising services may automatically collect or process certain information for advertising, measurement, fraud prevention, and related purposes. Depending on the applicable configuration and device settings, this may include:
 
-### 2.3 Advertising information – Google AdMob
+- IP address.
+- Advertising ID or other device identifiers.
+- Information about the device and app.
+- Advertising interactions and information about ad delivery.
+- Diagnostics and performance information.
 
-The App uses Google AdMob to display advertisements.
+This information may be processed by Google in accordance with its own privacy policies and terms.
 
-Google Mobile Ads SDK may automatically collect and process certain information, including:
+For more information, visit:
 
-- IP address, which may be used to estimate approximate location.
-- Advertising identifiers and other device identifiers.
-- App interactions, such as app launches, taps and advertisement views.
-- Advertising-related information.
-- Diagnostic and performance information.
+[Google Privacy Policy](https://policies.google.com/privacy)
 
-Google may use this information for advertising delivery, measurement, analytics and fraud prevention.
+### 2.3 Remotely Downloaded Puzzle Content
 
-Google processes information according to its own privacy policies and applicable terms.
+The App may download additional puzzle images or other game content from remote hosting services as you progress through levels.
 
-Google Privacy Policy:
-https://policies.google.com/privacy
-
-Google AdMob:
-https://admob.google.com/
-
-### 2.4 Puzzle content downloads
-
-Titan Art Puzzle provides puzzle images and related content.
-
-Some initial puzzle content is included within the App. Additional puzzle content may be downloaded from our content-hosting infrastructure as users progress through the levels.
-
-When downloading remote content, standard technical information such as IP address and request information may be processed by the hosting or content-delivery provider to deliver the requested files and maintain service security.
-
-We do not use these downloads to create user accounts or identify players by their real names.
+When this happens, the hosting service may process technical information associated with requests, such as IP address and request information, according to that provider's practices.
 
 ## 3. How Information Is Used
 
-Information processed through the App and its third-party services may be used for:
+Information processed through the App and its third-party services may be used to:
 
-- Displaying advertisements.
-- Measuring advertisement performance.
-- Preventing advertising fraud.
-- Delivering remote puzzle content.
-- Maintaining technical functionality and security.
-- Diagnosing technical issues associated with third-party advertising services.
-
-Game progress is maintained locally using PlayerPrefs.
+- Save and maintain local game progress.
+- Display and measure advertisements.
+- Deliver additional puzzle content.
+- Maintain app functionality, security, and performance.
+- Detect and prevent fraudulent or abusive activity.
 
 ## 4. Third-Party Services
 
-The App uses the following external services:
+The App uses the following third-party services:
 
-**Google AdMob**
+**Google AdMob:** Used to display advertisements.
 
-Used to display advertisements and support app monetization.
+Google's privacy information is available at:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Google may collect and process information through its advertising SDK.
+The App may also use remote hosting or content delivery services to provide additional puzzle content. Those providers may process technical information required to deliver the requested content.
 
-Privacy information:
-https://policies.google.com/privacy
-
-**Content hosting and delivery**
-
-Remote puzzle images and associated game content may be delivered through our content-hosting and delivery infrastructure.
-
-These services may process standard technical request information required to deliver content.
-
-We do not operate a third-party user account or authentication service.
+We do not control the privacy practices of third-party providers. Please review their respective privacy policies.
 
 ## 5. Data Sharing
 
-Groundnut Gaming House does not sell users' personal information.
+We do not sell personal information collected directly by us.
 
-Information may be processed or shared by third-party service providers as necessary to provide advertising, deliver puzzle content, maintain security and operate the App.
+Information may be processed by third-party service providers, including advertising and content-hosting providers, as necessary to provide their services.
 
-Google AdMob may share information with advertising partners and other service providers in accordance with Google's policies.
+Such providers may process information in accordance with their own privacy policies and applicable laws.
 
-## 6. Data Retention and Deletion
+## 6. Children's Privacy and Age Rating
 
-Game progress is stored locally on the user's device.
+Titan Art Puzzle is intended for users aged 13 and above and is not designed for children under the age of 13.
 
-Users can generally remove locally stored game data by clearing the App's data or uninstalling the App.
+The App does not provide account registration or an age-verification process.
 
-Information processed by Google AdMob or other infrastructure providers is subject to their respective retention policies and practices.
+If you believe that a child under 13 has provided personal information through a third-party service associated with the App, please contact us so that we can review the concern.
 
-For privacy-related questions, users may contact us using the email address provided below.
+## 7. Data Security
 
-## 7. Children's Privacy and Age Requirements
+We take reasonable steps to protect the App and the information processed through our services.
 
-Titan Art Puzzle is intended for users aged 13 and above and is not specifically designed for children under 13.
+However, no method of electronic storage or internet transmission is completely secure. We cannot guarantee absolute security.
 
-The App does not provide child-specific registration, profiles or social interaction features.
+## 8. Data Retention and Deletion
 
-We do not knowingly request personal information directly from children under 13.
+Game progress and settings are stored locally on your device. You can generally remove this local information by clearing the App's data or uninstalling the App.
 
-If we become aware that personal information has been provided to us in a manner requiring action under applicable law, we will take appropriate steps.
-
-## 8. Data Security
-
-We take reasonable measures to protect the App and its associated services.
-
-However, no electronic storage or internet transmission method can be guaranteed to be completely secure.
-
-Third-party services maintain their own security practices and policies.
+Information collected or processed by third-party services, such as Google AdMob or content-hosting providers, is subject to their respective retention and deletion policies.
 
 ## 9. Your Privacy Rights
 
-Depending on your location and applicable laws, you may have rights concerning your personal information, including requesting access, correction or deletion where applicable.
+Depending on your location and applicable law, you may have rights to request access to, correction of, or deletion of personal information processed by relevant service providers.
 
-For questions or requests concerning privacy, contact:
+For information processed by Google, please refer to Google's privacy controls and policies.
 
-**Email:** groundnutgaminghouse@gmail.com
-
-Please note that information independently processed by Google AdMob may need to be managed through Google's privacy tools.
+For questions about this Privacy Policy, contact us using the details below.
 
 ## 10. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time to reflect changes in the App, advertising services, applicable laws or our data practices.
+We may update this Privacy Policy from time to time to reflect changes to the App, our services, or applicable legal requirements.
 
-Any updated version will be published on our official legal website with a revised effective date.
+Any updates will be published on this page with a revised "Last updated" date.
 
 ## 11. Contact Us
 
-For questions, concerns or requests relating to this Privacy Policy:
+If you have questions or concerns about this Privacy Policy, contact:
 
 **Groundnut Gaming House**  
-India  
-Email: groundnutgaminghouse@gmail.com
-
-Website: https://legal.groundnutgaminghouse.com/privacy-policy
+Email: groundnutgaminghouse@gmail.com  
+Country: India
